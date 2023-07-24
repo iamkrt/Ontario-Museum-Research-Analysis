@@ -1,5 +1,5 @@
 # Ontario Museum Jigsaw Puzzle Survey Data Collection and Analysis
-The goal is to design a survey to estimate the market potential for selling jigsaw puzzles by Ontario Museums
+The goal is to design a survey for data collection and analysis to estimate the market potential for selling jigsaw puzzles by Ontario Museums
 
 ### Research Objective:-
 To identify the target market’s perception, preferences, and opinions about jigsaw puzzles sold by Ontario Museums. / To determine the market potential of jigsaw puzzles sold by Ontario Museums through the analysis of the target market’s demographic data, attitudes, and preferences.![image](https://github.com/iamkrt/Ontario-Museum-Research-Analysis/assets/42109704/3907c75a-b366-4e9d-94fd-e03c5d7feea7)
